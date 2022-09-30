@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonkeyKong", "DonkeyKong\DonkeyKong.csproj", "{8251BF32-C45F-4F84-9753-55ADA9C79C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8251BF32-C45F-4F84-9753-55ADA9C79C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8251BF32-C45F-4F84-9753-55ADA9C79C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8251BF32-C45F-4F84-9753-55ADA9C79C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8251BF32-C45F-4F84-9753-55ADA9C79C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9FFF3F-9A21-4584-A059-6726BFFA1651}
+	EndGlobalSection
+EndGlobal
